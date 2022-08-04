@@ -8,3 +8,8 @@
 * git commit - captures a snapshot of the project's currently staged changes/ добавляет изменеие в репозиторий
 * *git status* - displays the state of the working directory and the staging area/ Показывает статус рабочего состояния
 * *git check out* - lets you navigate between the branches created by git branch/ Просмотр добавленных веток/коммитов
+
+## Reminder!
+
+1. After adding new info don't forget to save the file (Cmd+S)  
+
