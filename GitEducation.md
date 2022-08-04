@@ -1,9 +1,9 @@
-# VSC Instruction
+# GIT Instruction
 
-git config --global user.name "" 
-git config --global user.email "" 
-git version
-git init
-git add
-git commit
-git status
+* git config --global user.name "" 
+* git config --global user.email "" 
+* git version
+* *git init* - creates a new Git repository
+* git add
+* git commit
+* git status
