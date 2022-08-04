@@ -13,3 +13,4 @@
 
 1. After adding new info don't forget to save the file (Cmd+S)  
 2. After you save the files you add the file.s
+3. Create commit
