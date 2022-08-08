@@ -1,5 +1,5 @@
 # GIT Instruction
-
+Instructions for git
 * *git config --global user.name ""*
 * *git config --global user.email ""*
 * *git version* - check your current version /Проверить версию Гита
