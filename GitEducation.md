@@ -15,5 +15,9 @@
 2. After you save the files you add the file.s
 3. Create commit
 
+Instruction Branch
 
+* *git branch* - check existing branches
+* *git branch <name>* - create a new branch
+* *git merge <branch name>* -  merge 2 branches
 
