@@ -22,3 +22,5 @@ Instruction Branch
 * *git merge <branch name>* -  merge 2 branches
 
 This line has been added from the local repository 
+  
+  This line has been added from the remoted repository
