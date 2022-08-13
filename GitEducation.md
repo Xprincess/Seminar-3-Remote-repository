@@ -24,3 +24,5 @@ Instruction Branch
 This line has been added from the local repository 
   
   This line has been added from the remoted repository
+
+  This line has been added from the side branch
